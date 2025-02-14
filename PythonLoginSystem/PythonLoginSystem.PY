@@ -22,7 +22,7 @@ def login():
 # Create the GUI window
 root = tk.Tk()
 root.title("Login Page")
-root.geometry("3000x2000")
+root.geometry("300x200")
 root.configure(bg="#f0f0f0")
 
 # Add labels and entry fields
